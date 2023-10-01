@@ -7,22 +7,22 @@
 <!-- Badges -->
 <p>
   <a href="https://github.com/AmineSoukara/EgyBest-Api/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/hexated/cloudstream-extensions-hexated" alt="contributors" />
+    <img src="https://img.shields.io/github/contributors/Luna712/cloudstream-extensions-hexated" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/hexated/cloudstream-extensions-hexated" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/Luna712/cloudstream-extensions-hexated" alt="last update" />
   </a>
-  <a href="https://github.com/hexated/cloudstream-extensions-hexated/network/members">
-    <img src="https://img.shields.io/github/forks/hexated/cloudstream-extensions-hexated" alt="forks" />
+  <a href="https://github.com/Luna712/cloudstream-extensions-Luna712/network/members">
+    <img src="https://img.shields.io/github/forks/Luna712/cloudstream-extensions-hexated" alt="forks" />
   </a>
-  <a href="https://github.com/hexated/cloudstream-extensions-hexated/stargazers">
-    <img src="https://img.shields.io/github/stars/hexated/cloudstream-extensions-hexated" alt="stars" />
+  <a href="https://github.com/Luna712/cloudstream-extensions-Luna712/stargazers">
+    <img src="https://img.shields.io/github/stars/Luna712/cloudstream-extensions-hexated" alt="stars" />
   </a>
-  <a href="https://github.com/hexated/cloudstream-extensions-hexated/issues/">
-    <img src="https://img.shields.io/github/issues/hexated/cloudstream-extensions-hexated" alt="open issues" />
+  <a href="https://github.com/Luna712/cloudstream-extensions-Luna712/issues/">
+    <img src="https://img.shields.io/github/issues/Luna712/cloudstream-extensions-hexated" alt="open issues" />
   </a>
-  <a href="https://github.com/hexated/cloudstream-extensions-hexated/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/hexated/cloudstream-extensions-hexated.svg" alt="license" />
+  <a href="https://github.com/Luna712/cloudstream-extensions-Luna712/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Luna712/cloudstream-extensions-hexated.svg" alt="license" />
   </a>
   <a href="https://github.com/AmineSoukara/EgyBest-API">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhexated%2Fcloudstream-extensions-hexated&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Hits&edge_flat=false" alt="hits" />

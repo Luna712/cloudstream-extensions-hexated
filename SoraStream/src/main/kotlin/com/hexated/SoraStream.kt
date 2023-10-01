@@ -507,7 +507,7 @@ open class SoraStream : TmdbProvider() {
             },
             {
                 if (!res.isAnime) invokeM4uhd(
-                    res.orgTitle ?: res.title,
+                    res.orgTitle,
                     res.airedYear ?: res.year,
                     res.season,
                     res.episode,

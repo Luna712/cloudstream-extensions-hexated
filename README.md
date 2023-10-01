@@ -12,16 +12,16 @@
   <a href="">
     <img src="https://img.shields.io/github/last-commit/Luna712/cloudstream-extensions-hexated" alt="last update" />
   </a>
-  <a href="https://github.com/Luna712/cloudstream-extensions-Luna712/network/members">
+  <a href="https://github.com/Luna712/cloudstream-extensions-hexated/network/members">
     <img src="https://img.shields.io/github/forks/Luna712/cloudstream-extensions-hexated" alt="forks" />
   </a>
-  <a href="https://github.com/Luna712/cloudstream-extensions-Luna712/stargazers">
+  <a href="https://github.com/Luna712/cloudstream-extensions-hexated/stargazers">
     <img src="https://img.shields.io/github/stars/Luna712/cloudstream-extensions-hexated" alt="stars" />
   </a>
-  <a href="https://github.com/Luna712/cloudstream-extensions-Luna712/issues/">
+  <a href="https://github.com/Luna712/cloudstream-extensions-hexated/issues/">
     <img src="https://img.shields.io/github/issues/Luna712/cloudstream-extensions-hexated" alt="open issues" />
   </a>
-  <a href="https://github.com/Luna712/cloudstream-extensions-Luna712/blob/master/LICENSE">
+  <a href="https://github.com/Luna712/cloudstream-extensions-hexated/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Luna712/cloudstream-extensions-hexated.svg" alt="license" />
   </a>
   <a href="https://github.com/AmineSoukara/EgyBest-API">

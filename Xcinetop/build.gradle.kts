@@ -22,5 +22,5 @@ cloudstream {
         "Movie",
     )
 
-    iconUrl = "https://raw.githubusercontent.com/Luna712/cloudstream-extensions-Luna712/master/Xcinetop/icon.png"
+    iconUrl = "https://raw.githubusercontent.com/Luna712/cloudstream-extensions-hexated/master/Xcinetop/icon.png"
 }

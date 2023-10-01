@@ -23,5 +23,5 @@ cloudstream {
         "Anime",
     )
 
-    iconUrl = "https://raw.githubusercontent.com/Luna712/cloudstream-extensions-Luna712/master/Anilibria/icon.png"
+    iconUrl = "https://raw.githubusercontent.com/Luna712/cloudstream-extensions-hexated/master/Anilibria/icon.png"
 }

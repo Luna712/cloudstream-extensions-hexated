@@ -45,5 +45,5 @@ cloudstream {
         "Movie",
     )
 
-    iconUrl = "https://raw.githubusercontent.com/Luna712/cloudstream-extensions-Luna712/master/SoraStream/Icon.png"
+    iconUrl = "https://raw.githubusercontent.com/Luna712/cloudstream-extensions-hexated/master/SoraStream/Icon.png"
 }
